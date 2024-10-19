@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://graph.org/file/a5f6da40168d19a3bedb8.jpg">
+  <img src="https://graph.org/file/ef043e0bfe76db3af15f9.jpg">
 </p>
 <h1 align="center">
-  Biisal Filter Bot
+  𝑫𝒆𝒆𝒏𝒅𝒂𝒚𝒂𝒍_𝒅𝒉𝒂𝒌𝒂𝒅
 </h1>
 
 First Check our **Demo** bot -
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/directfilee_bot)
+[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=http://t.me/Dhakad_files_Bot)](https://t.me/directfilee_bot)
 
 ### Need Deployment Support?
 
 If you encounter any issues **Deploying** the bot, feel free to seek assistance in our **support group**:
 
-[![Join Support Group    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_Files_Talk)
+[![Join Support Group    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Deendayal_Support_Group)
 
 # About This Repository :
 
@@ -21,9 +21,6 @@ The bot repository is designed to filter and manage files on Telegram. It allows
 <br>
 For more information of the project, please refer to the [FEATURES PAGE](https://github.com/biisal/biisal-filter-bot/blob/main/readme/FEATURES.md)
 
-## Deployment
-
-### Click [Here To Deploy](https://github.com/biisal/biisal-filter-bot/blob/main/readme/DEPLOYMENT.md) the bot with less efforts.
 
 ## Features
 
@@ -31,19 +28,18 @@ For more information of the project, please refer to the [FEATURES PAGE](https:/
 
 ## Special Thanks To
 
-### 🔧 [Rk-Auto-Filter-Bot](https://github.com/biisal/rk-Auto-Filter-Bot)
 
-🧑‍💻: [Rishikesh Sharma](https://github.com/Rishikesh-Sharma09)
+🧑‍💻: [Sahid malik](https://github.com/Sahidmalik001)
 
-### 🔧 [TeamEvamaria](https://github.com/EvamariaTG/EvaMaria)
+### 🔧 [MrRaazz](https://github.com/MrRaazz)
 
 🧑‍💻: [Team EvaMaria](https://t.me/TeamEvamaria)
 
-### 🔧 [HA BOTS](https://github.com/HA-Bots)
+### 🔧 [HarshalPurohitEdits](https://github.com/HarshalPurohitEdits)
 
-🧑‍💻 [Hansaka Anuhas](https://t.me/Hansaka_Anuhas)
+🧑‍💻 [Sahid malik]()
 
-### 🔧 [Support Group](https://t.me/Bisal_Files_Talk)
+### 🔧 [Support Group](https://t.me/Deendayal_Support_Group)
 
 ## Disclaimer
 

@@ -29,15 +29,12 @@ For more information of the project, please refer to the [FEATURES PAGE](https:/
 ## Special Thanks To
 
 
-🧑‍💻: [Sahid malik](https://github.com/Sahidmalik001)
+## 🌴 [Sahid malik](https://github.com/Sahidmalik001)
 
 ### 🔧 [MrRaazz](https://github.com/MrRaazz)
 
-🧑‍💻: [Team EvaMaria](https://t.me/TeamEvamaria)
 
 ### 🔧 [HarshalPurohitEdits](https://github.com/HarshalPurohitEdits)
-
-🧑‍💻 [Sahid malik]()
 
 ### 🔧 [Support Group](https://t.me/Deendayal_Support_Group)
 

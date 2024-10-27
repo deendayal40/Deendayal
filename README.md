@@ -47,3 +47,5 @@ This repository is provided for educational purposes only. It is not intended fo
 This project is licensed under the [MIT License](https://github.com/biisal/biisal-filter-bot/blob/main/LICENSE)
 
 ### Jai Shree Krishna !😉
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=super-filter&type=git&repository=Deendayal403%2FSuper-filter-&branch=Deendayal_dhakad&builder=buildpack&env%5BFQDN%5D=suitable-stefania-deenu-18938060.koyeb.app&ports=8080%3Bhttp%3B%2F)

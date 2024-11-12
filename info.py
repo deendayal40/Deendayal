@@ -44,7 +44,7 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002079367644') # request chan
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://deendayaldhaked46:deendayal123@cluster0.d7hue40.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "cluster")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Deendayal_files')
 
 # index movie Notification & update channel 
 DEENDAYAL_MOVIE_UPDATE_NOTIFICATION = bool(environ.get('DEENDAYAL_MOVIE_UPDATE_NOTIFICATION', True))  # NOTIFICATION On ( True ) / Off ( False )

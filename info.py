@@ -67,7 +67,7 @@ TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Deenu_dhakad') # Tutorial video
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
 #Channel & Group link 
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+kF6kYm_7o_wxM2E1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+zfs14uAjnAs2NzFl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Deendayal_dhakad')
 
 

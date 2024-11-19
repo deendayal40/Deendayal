@@ -139,8 +139,7 @@ else:
     URL = "http://{}/".format(FQDN)
 
 #ADD_REACTION
-REACTIONS = ["❤️‍🔥", "♥️", "🔥", "🙋"]
-
+REACTIONS = ["❤️‍🔥", "❤️", "🔥", "🙋","😢", "🎉", "🤩", "🙏", "👌", "🕊"]
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")

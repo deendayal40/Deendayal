@@ -79,6 +79,7 @@ async def get_shortlink(url):
 
 @Client.on_message(filters.group & filters.text & filters.incoming)
 async def give_filter(client, message):
+    await message.react(emoji=random.choice(REACTIONS), big=True)
     await mdb.update_top_messages(message.from_user.id, message.text)
     k = await manual_filters(client, message)
     if k == False:
@@ -87,6 +88,7 @@ async def give_filter(client, message):
 
 @Client.on_message(filters.private & filters.text & filters.incoming)
 async def pm_text(bot, message):
+    await message.react(emoji=random.choice(REACTIONS), big=True)
     await mdb.update_top_messages(message.from_user.id, message.text)
     content = message.text
     user = message.from_user.first_name

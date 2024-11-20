@@ -79,7 +79,7 @@ async def get_shortlink(url):
 
 @Client.on_message(filters.group & filters.text & filters.incoming)
 async def give_filter(client, message):
-    await message.react(emoji=random.choice(REACTIONS), big=True)
+    #await message.react(emoji=random.choice(REACTIONS), big=True)
     await mdb.update_top_messages(message.from_user.id, message.text)
     k = await manual_filters(client, message)
     if k == False:
